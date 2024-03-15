@@ -80,10 +80,25 @@
                 },
                 "id": "recP8gNZ0d",
                 "record_id": "recP8gNZ0d"
+            },
+            {
+                "fields": {
+                    "CompanyOrPartner": "\u6d4b\u8bd5",
+                    "Date": 1710518342082,
+                    "Duration": "1\u5e74",
+                    "EmploymentType": "\u8bd5\u7528\u671f\u672a\u8fc7",
+                    "ID": "LH202403150014",
+                    "Rating": "3",
+                    "Reason": "\u633a\u597d",
+                    "Region": "\u5929\u6d25",
+                    "Remarks": "\u5410\u69fd"
+                },
+                "id": "rectaQtnxq",
+                "record_id": "rectaQtnxq"
             }
         ],
-        "page_token": "recP8gNZ0d",
-        "total": 3
+        "page_token": "rectaQtnxq",
+        "total": 4
     },
     "msg": "success"
 }
