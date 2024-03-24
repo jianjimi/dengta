@@ -80,10 +80,55 @@
                 },
                 "id": "recP8gNZ0d",
                 "record_id": "recP8gNZ0d"
+            },
+            {
+                "fields": {
+                    "CompanyOrPartner": "\u6d4b\u8bd5",
+                    "Date": 1710518342082,
+                    "Duration": "1\u5e74",
+                    "EmploymentType": "\u8bd5\u7528\u671f\u672a\u8fc7",
+                    "ID": "LH202403150014",
+                    "Rating": "3",
+                    "Reason": "\u633a\u597d",
+                    "Region": "\u5929\u6d25",
+                    "Remarks": "\u5410\u69fd"
+                },
+                "id": "rectaQtnxq",
+                "record_id": "rectaQtnxq"
+            },
+            {
+                "fields": {
+                    "CompanyOrPartner": "\u5317\u4eacxx\u6587\u5316\u4f20\u5a92\u6709\u9650\u516c\u53f8",
+                    "Date": 1711290599979,
+                    "Duration": "1\u4e2a\u6708",
+                    "EmploymentType": "\u5168\u804c\u5df2\u8f6c\u6b63",
+                    "ID": "LH202403240015",
+                    "Rating": "4",
+                    "Reason": "\u5de5\u4f5c\u73af\u5883\u4e0d\u9519\uff0c\u5de5\u8d44\u53d1\u7684\u53ca\u65f6\u3002",
+                    "Region": "\u5317\u4eac",
+                    "Remarks": "\u63a8\u8350"
+                },
+                "id": "reccRoBLIk",
+                "record_id": "reccRoBLIk"
+            },
+            {
+                "fields": {
+                    "CompanyOrPartner": "Xxx",
+                    "Date": 1711290676583,
+                    "Duration": "1\u4e2a\u6708",
+                    "EmploymentType": "\u5b9e\u4e60",
+                    "ID": "LH202403240016",
+                    "Rating": "4",
+                    "Reason": "\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\n\n\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u2e02\u2e02\u2e1c\ud83d\udc4a\u2e1d\u2e03\u2e03\u73af\u5883\u4e0d\u597d\u73af\u5883\u4e0d\u597d",
+                    "Region": "\u5e7f\u4e1c",
+                    "Remarks": "\u5410\u69fd"
+                },
+                "id": "rec9fGyE2q",
+                "record_id": "rec9fGyE2q"
             }
         ],
-        "page_token": "recP8gNZ0d",
-        "total": 3
+        "page_token": "rec9fGyE2q",
+        "total": 6
     },
     "msg": "success"
 }
