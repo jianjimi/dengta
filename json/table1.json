@@ -62,10 +62,25 @@
                 },
                 "id": "recIHUfKKS",
                 "record_id": "recIHUfKKS"
+            },
+            {
+                "fields": {
+                    "CompanyOrPartner": "\u534e\u805a\u6587\u5316",
+                    "Date": 1711330792686,
+                    "Duration": "3\u4e2a\u6708",
+                    "EmploymentType": "\u8bd5\u7528\u671f\u672a\u8fc7",
+                    "ID": "LH202403250020",
+                    "Rating": "1",
+                    "Reason": "\u4e3b\u7ba1\u666e\u4fe1\u5973\uff0c\u89c9\u5f97\u4e16\u754c\u79bb\u4e86\u5979\u5c31\u662f\u4e00\u6f6d\u6b7b\u6c34\u3002\u6ca1\u591a\u5927\u70b9\u672c\u4e8b\u8fd8\u559c\u6b22\u88c5bei\uff0c\u7247\u5b50\u5c31\u8be5\u8fd9\u6837\u5c31\u8be5\u90a3\u6837\uff0c\u4ee5\u81ea\u6211\u4e3a\u4e2d\u5fc3\uff0c\u6c38\u8fdc\u542c\u4e0d\u8fdb\u53bb\u522b\u4eba\u7684\u8bdd\u3002",
+                    "Region": "\u5317\u4eac",
+                    "Remarks": "\u5410\u69fd"
+                },
+                "id": "recXMQAIDn",
+                "record_id": "recXMQAIDn"
             }
         ],
-        "page_token": "recIHUfKKS",
-        "total": 3
+        "page_token": "recXMQAIDn",
+        "total": 4
     },
     "msg": "success"
 }
