@@ -5,66 +5,6 @@
         "items": [
             {
                 "fields": {
-                    "CompanyOrPartner": "\u5317\u4eacxx\u4f20\u5a92\u6709\u9650\u516c\u53f8",
-                    "Date": 1711295350873,
-                    "Duration": "\u4e00\u5e74",
-                    "EmploymentType": "\u5168\u804c\u5df2\u8f6c\u6b63",
-                    "Feedback": [
-                        {
-                            "text": "\u201c\u8981\u8bf4\u7684\u8bdd\u201d",
-                            "type": "text"
-                        }
-                    ],
-                    "ID": "LH202403240017",
-                    "Rating": "3",
-                    "Reason": "\u586b\u5199\u5410\u69fd\u539f\u56e0\uff0c\u5177\u4f53\u56e0\u4e3a\u4ec0\u4e48\u4e8b\u624d\u5410\u69fd\u7684\u3002",
-                    "Region": "\u5317\u4eac",
-                    "Remarks": "\u5410\u69fd",
-                    "ReviewerPosition": [
-                        {
-                            "text": "\u5f53\u4e8b\u4eba",
-                            "type": "text"
-                        }
-                    ],
-                    "responseType": [
-                        "optId1TKD6"
-                    ]
-                },
-                "id": "rec5BdBaWc",
-                "record_id": "rec5BdBaWc"
-            },
-            {
-                "fields": {
-                    "CompanyOrPartner": "\u4e0a\u6d77xxx",
-                    "Date": 1711295397803,
-                    "Duration": "\u4e00\u5e74",
-                    "EmploymentType": "\u5168\u804c\u5df2\u8f6c\u6b63",
-                    "ID": "LH202403240018",
-                    "Rating": "5",
-                    "Reason": "\u5f85\u9047\u600e\u4e48\u6837\uff0c\u54ea\u91cc\u597d\u3002",
-                    "Region": "\u4e0a\u6d77",
-                    "Remarks": "\u63a8\u8350"
-                },
-                "id": "recncAKvJK",
-                "record_id": "recncAKvJK"
-            },
-            {
-                "fields": {
-                    "CompanyOrPartner": "\u5317\u4eacxxx",
-                    "Date": 1711295422447,
-                    "Duration": "\u4e00\u4e2a\u6708",
-                    "EmploymentType": "\u5b9e\u4e60",
-                    "ID": "LH202403240019",
-                    "Rating": "4",
-                    "Reason": "\u586b\u5199\u539f\u56e0",
-                    "Region": "\u5317\u4eac",
-                    "Remarks": "\u63a8\u8350"
-                },
-                "id": "recIHUfKKS",
-                "record_id": "recIHUfKKS"
-            },
-            {
-                "fields": {
                     "CompanyOrPartner": "\u534e\u805a\u6587\u5316",
                     "Date": 1711330792686,
                     "Duration": "3\u4e2a\u6708",
@@ -110,7 +50,7 @@
             }
         ],
         "page_token": "reczCg9425",
-        "total": 6
+        "total": 3
     },
     "msg": "success"
 }
